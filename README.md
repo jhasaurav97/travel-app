@@ -7,7 +7,8 @@
 ## 📸 **Screenshots**  
 
 ### 🏞️ **Home Page:**  
-![Screenshot 1](./screenshots/homepage.png) *(Add a screenshot showing the main UI with a few packing items added.)*  
+![homePage](https://github.com/user-attachments/assets/53e577ed-26ec-46a0-8389-7a90f752af08)
+ *(Add a screenshot showing the main UI with a few packing items added.)*  
 
 ### ✅ **Packed Items View:**  
 ![Screenshot 2](./screenshots/packed-items.png) *(Add a screenshot showing items marked as packed.)*  
